@@ -1,0 +1,22 @@
+input the cost:$150
+input the number of year:3
+input the inflation rate:10
+cost of item after 3years is :$199.65
+Repeat? y/n: y
+input the cost:$10
+input the number of year:1
+input the inflation rate:3
+cost of item after 1years is :$10.3
+Repeat? y/n: y
+input the cost:$10
+input the number of year:2
+input the inflation rate:12
+cost of item after 2years is :$12.544
+Repeat? y/n: y
+input the cost:$83
+input the number of year:5
+input the inflation rate:3
+cost of item after 5years is :$96.2197
+Repeat? y/n: n
+Press <RETURN> to close this window...
+
