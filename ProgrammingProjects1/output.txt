@@ -1,0 +1,20 @@
+enter a weight in ounces:
+50
+Weight=0.00141748 metric tons
+706 Boxes needed to yield 1 metric ton
+Repeat? y
+enter a weight in ounces:
+198
+Weight=0.00561321 metric tons
+179 Boxes needed to yield 1 metric ton
+Repeat? y
+enter a weight in ounces:
+154
+Weight=0.00436583 metric tons
+230 Boxes needed to yield 1 metric ton
+Repeat? y
+enter a weight in ounces:
+356
+Weight=0.0100924 metric tons
+100 Boxes needed to yield 1 metric ton
+Repeat?
