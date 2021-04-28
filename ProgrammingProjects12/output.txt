@@ -1,0 +1,21 @@
+10
+answer:3.16232
+Again? y/n:y
+8
+answer:2.82843
+Again? y/n:y
+4
+answer:2
+Again? y/n:y
+3
+answer:1.75
+Again? y/n:y
+16
+answer:4
+Again? y/n:y
+85
+answer:9.21956
+Again? y/n:n
+Press <RETURN> to close this window...
+
+
