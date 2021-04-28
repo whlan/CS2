@@ -1,0 +1,28 @@
+the amount of cosumer needs:$1000
+amount of interest rate in %:50
+how many months:10
+total amount $583
+monthly loan payment $100
+
+Again? y/n y
+the amount of cosumer needs:$3580
+amount of interest rate in %:10
+how many months:5
+total amount $3430
+monthly loan payment $716
+
+Again? y/n y
+the amount of cosumer needs:$3870
+amount of interest rate in %:13
+how many months:8
+total amount $3534
+monthly loan payment $483.75
+
+Again? y/n y
+the amount of cosumer needs:$794
+amount of interest rate in %:35
+how many months:12
+total amount $516
+monthly loan payment $66.1667
+
+Again? y/n
